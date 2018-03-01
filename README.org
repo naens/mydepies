@@ -1,0 +1,6 @@
+#+TITLE: MyDepies
+
+* Overview
+MyDepies is a simple Android application for managing dependencies
+and sorting dependencies.
+
